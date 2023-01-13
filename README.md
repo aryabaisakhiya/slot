@@ -109,10 +109,10 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](./)timetable.png
+![OUTPUT](./timetable.png)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](./)validator.png
+![HTML VALIDATOR](./validator.png)
 
 # RESULT
 Program is executed successfully
